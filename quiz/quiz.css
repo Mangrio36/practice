@@ -4,3 +4,17 @@ body {
   align-items: center;
   justify-content: center;
 }
+.container {
+  width: 800px;
+  height: 500px;
+  background-color: white;
+}
+.submit {
+  background-color: rebeccapurple;
+  color: white;
+  border: none;
+}
+.result {
+  background-color: white;
+  display: none;
+}
