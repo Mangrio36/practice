@@ -8,6 +8,7 @@ body {
   width: 800px;
   height: 500px;
   background-color: white;
+  position: relative;
 }
 .submit {
   background-color: rebeccapurple;
@@ -16,6 +17,8 @@ body {
   width: 100%;
   height: 50px;
   cursor: pointer;
+  position: absolute;
+  bottom: 0;
 }
 .result {
   background-color: white;
